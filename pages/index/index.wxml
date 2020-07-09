@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="sy_btn">
+	<navigator url="/pages/monthreg/list/list">
+		<!-- <image src="/assets/images/fsts_btn1.png" /> -->
+		<view>月登记</view>
+	</navigator>
+</view>
